@@ -1,0 +1,23 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Système de Gestion de Bibliothèque - Conception Orientée Objet avec UML",
+  "main": "src/example-usage.js",
+  "scripts": {
+    "start": "node src/example-usage.js",
+    "test": "echo \"Tests à implémenter\" && exit 0"
+  },
+  "keywords": [
+    "library",
+    "management",
+    "OOP",
+    "UML",
+    "object-oriented",
+    "design-patterns"
+  ],
+  "author": "Expert en Analyse et Conception Logicielle",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
